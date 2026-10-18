@@ -1,6 +1,6 @@
 {
-  "name": "shadow-point-online",
-  "version": "2.0.0",
+  "name": "shadow-point-online4.0.0",
+  "version": "4.0.0",
   "private": true,
   "description": "Room-code real-time multiplayer prototype for SHADOW POINT",
   "main": "server.js",
