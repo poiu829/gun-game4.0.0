@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shadow-point-online
+    name: shadow-point-online4.0.0
     runtime: node
     plan: free
     buildCommand: npm install
